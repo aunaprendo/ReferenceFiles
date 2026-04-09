@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains reference materials, archived files, and test versions of documents used throughout development and learning. These files are retained for documentation, experimentation, and historical tracking purposes.
+This repository contains reference materials, archived files, and test versions of documents used throughout development and learning. These files are retained for documentation, experimentation, and historical tracking purposes only.
 
 ## Purpose
 
